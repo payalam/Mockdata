@@ -16,5 +16,11 @@
          "relayNr":3,
          "relayType":"RELAY"
       }
-   ]
+   ],
+"posts1": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ]
 }
